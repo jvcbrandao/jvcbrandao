@@ -3,8 +3,8 @@
 </h1>
 
 
-- 🔭 Eu estou atualmente buscando minha primeira oportunidade de trabalho!
-- 🌱Atualmente me tornando um desenvolvedor!
+ - 🔭 Desenvolvedor Back-End Freelancer
+ - 🌱 Aprendendo e evoluindo constantemente para ir ainda mais longe!
 
 <div style="display: inline_block"><br>
 <h1>🏆 Tecnologias</h1>
