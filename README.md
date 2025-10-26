@@ -1,17 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Oi,+tudo+bem?👋;+Eu+sou+o+João+Vitor+Brandão!;+Desenvolvedor+em+evolução+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Oi,+tudo+bem?👋;+Eu+sou+o+João+Vitor+Brandão!;+Desenvolvedor+Full+Stack+🚀;" />
 </h1>
 
-<h3 align="center">Desenvolvedor Back-End | Estudante de ADS na PUC Minas | Apaixonado por tecnologia e aprendizado contínuo</h3>
+<h3 align="center">💻 Desenvolvedor Full Stack | Graduado em Matemática | Estudante de ADS na PUC Minas | Apaixonado por tecnologia e aprendizado contínuo</h3>
 
 ---
 
-### Sobre mim  
-Sou **João Vitor Brandão**, um desenvolvedor em constante crescimento, com foco em **Node.js** e **React**.  
-Atualmente estudo **TypeScript, Prisma e boas práticas de arquitetura**, buscando sempre criar **códigos limpos, seguros e escaláveis**.  
-Minha experiência como **professor** me ajudou a desenvolver habilidades de comunicação e resolução de problemas — fundamentais para colaborar em projetos e aprender de forma contínua.  
+### 🚀 Sobre mim  
+Sou **João Vitor Brandão**, desenvolvedor **Full Stack** com foco em **Node.js** e **React**.  
+Graduado em **Matemática**, e atualmente cursando **Análise e Desenvolvimento de Sistemas na PUC Minas**, desenvolvo soluções que unem **lógica, usabilidade e boas práticas de código**.  
 
->  “Aprender, construir e evoluir — um commit de cada vez.”
+Atualmente estudo **TypeScript, Prisma e DevOps**, buscando evoluir em cada projeto e transformar aprendizado em resultados reais.  
+Minha experiência como **professor** fortaleceu minha comunicação e capacidade de resolver problemas — habilidades que aplico diariamente no desenvolvimento de software.  
+
+> 💡 “Aprender, construir e evoluir — um commit de cada vez.”
 
 ---
 
@@ -23,7 +25,7 @@ Minha experiência como **professor** me ajudou a desenvolver habilidades de com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" width="40" alt="Prisma" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode" />
@@ -56,4 +58,4 @@ Minha experiência como **professor** me ajudou a desenvolver habilidades de com
 
 ---
 
-<h3 align="center">✨ “Transformando aprendizado em código e ideias em soluções.” ✨</h3>
+<h3 align="center">✨ “Unindo lógica e criatividade para transformar conhecimento em soluções.” ✨</h3>
